@@ -1,0 +1,27 @@
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.exe
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.deps.json
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.runtimeconfig.json
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.runtimeconfig.dev.json
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.dll
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.pdb
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.csprojAssemblyReference.cache
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.AssemblyInfoInputs.cache
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.AssemblyInfo.cs
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.csproj.CoreCompileInputs.cache
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.dll
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.pdb
+C:\Users\afaulkner\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.genruntimeconfig.cache
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.exe
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.deps.json
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.runtimeconfig.json
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.runtimeconfig.dev.json
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.dll
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\bin\Debug\netcoreapp3.1\8BitComputer.pdb
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.csproj.AssemblyReference.cache
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.AssemblyInfoInputs.cache
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.AssemblyInfo.cs
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.csproj.CoreCompileInputs.cache
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.dll
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.pdb
+C:\Users\aaron.faulkner\OneDrive - AVEVA Solutions Limited\Documents\Visual Studio 2017\Projects\8BitComputer\8BitComputer\obj\Debug\netcoreapp3.1\8BitComputer.genruntimeconfig.cache
