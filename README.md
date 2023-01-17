@@ -2,7 +2,7 @@
 8BitComputer is a simulation of a programmable 8 bit digital computer based on the work of Ben Eater, in his series [Building an 8-bit breadboar computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU).
 
 8BitComputer provides a command line interface for writing and executing 8 bit programs written in assembly language:
-![image](https://user-images.githubusercontent.com/20804273/193700431-e79d09f7-b5f2-4c08-bf79-fd51782e2097.png)
+![8BitComputer Startup](https://raw.githubusercontent.com/faulknerag/8BitComputer/67c0c826b11a09cc9e2cc728be84c5ba847b9e68/Images/8BitComputer%20Startup.png)
 
 # Menu Options
 **[1] Run** Begins executing the program currently stored in RAM  
@@ -18,7 +18,7 @@ Press \<ESC\> at any time to halt execution and return to the main menu.
 
 **To View the Contents of RAM**  
 Use option '2' from the the main menu, then 'D':  
-![image](https://user-images.githubusercontent.com/20804273/193701090-5deceb3e-1271-4065-8928-9c5636aee6dc.png)
+![Memory Module](https://raw.githubusercontent.com/faulknerag/8BitComputer/67c0c826b11a09cc9e2cc728be84c5ba847b9e68/Images/Memory%20Module.png)
 
 **To Clear All Data From RAM**  
 Use option '2' from the the main menu, then 'C'. 
@@ -79,5 +79,5 @@ To intrepret the program:
 
 # Computer Architecture
 8BitComputer is a digital implementation of the physical architecture described in Ben Eater's [original work](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU):
-![102021-8-bit CPU control signal overview - YouTube](https://user-images.githubusercontent.com/20804273/193708415-4cb03ad9-d730-46a8-a60f-8e8d78615fca.png)
+![102021-8-bit CPU control signal overview - YouTube](https://raw.githubusercontent.com/faulknerag/8BitComputer/67c0c826b11a09cc9e2cc728be84c5ba847b9e68/Images/Computer%20Architecture.png)
 
